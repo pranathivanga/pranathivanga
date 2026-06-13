@@ -18,7 +18,7 @@
 - 🌱 Learning **Spring AI** and diving deeper into cloud-native architecture
 - 💡 I specialize in **secure REST APIs**, JWT auth, Redis caching & AWS deployments
 - 🏅 **ServiceNow CSA Certified** | AWS Cloud Foundations Graduate
-- 🌐 Portfolio: [pranathi-vanga.vercel.app](https://portfolio-pranathi-vangas-projects.vercel.app/)
+- 🌐 Portfolio: https://pranathivanga.github.io/portfolio_v2/
 - 📫 Reach me at **vangapranathi@gmail.com**
 
 ---
