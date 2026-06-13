@@ -20,7 +20,6 @@
 - 🏅 **ServiceNow CSA Certified** | AWS Cloud Foundations Graduate
 - 🌐 Portfolio: [pranathi-vanga.vercel.app](https://portfolio-pranathi-vangas-projects.vercel.app/)
 - 📫 Reach me at **vangapranathi@gmail.com**
-- ⚡ Fun fact: I think OWASP Top 10 should be mandatory reading before any dev ships an API 😄
 
 ---
 
@@ -130,8 +129,4 @@
 - 💼 **Deloitte Technology Job Simulation** — Forage, Aug 2025
 - 🎓 **TCS ION Career Edge** — Aug 2025
 
----
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
-</div>
