@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Pranathi+%F0%9F%91%8B;Java+%26+Spring+Boot+Developer;Security-First+Backend+Engineer;AWS+%7C+Redis+%7C+Docker+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Pranathi+%F0%9F%91%8B;Java+%26+Spring+Boot+Developer;Backend+%26+Distributed+Systems+Engineer;AWS+%7C+Redis+%7C+Docker+Enthusiast" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -14,10 +14,10 @@
 ### 👩‍💻 About Me
 
 - 🎓 Final-year **B.Tech IT** student at MLRIT, Hyderabad (GPA: 7.8)
-- 🔭 Currently building **[DevGuard](https://github.com/pranathivanga)** — a code secret scanner with severity flagging
+- 🔭 Currently building **FlowForge**[https://github.com/pranathivanga/FlowForge] — an AI-powered workflow orchestration platform for developers
 - 🌱 Learning **Spring AI** and diving deeper into cloud-native architecture
 - 💡 I specialize in **secure REST APIs**, JWT auth, Redis caching & AWS deployments
-- 🏅 **ServiceNow CSA Certified** | AWS Cloud Foundations Graduate
+- 🏅 **ServiceNow CSA & CAD Certified** | AWS Cloud Foundations Graduate
 - 🌐 Portfolio: https://pranathivanga.github.io/portfolio_v2/
 - 📫 Reach me at **vangapranathi@gmail.com**
 
@@ -105,6 +105,7 @@
 | 🔒 **[API Shield](https://github.com/pranathivanga)** | Secure auth middleware with JWT + RBAC | `Spring Boot` `Spring Security` `JWT` `JUnit` |
 | 🌍 **[TripWise](https://github.com/pranathivanga)** | Smart travel planner backend — ~60% DB load reduction via Redis | `Spring Boot` `MySQL` `Redis` `AWS EC2` |
 | 🕵️ **[DevGuard](https://github.com/pranathivanga)** | Scans code files for hardcoded secrets with severity flagging | `Spring Boot` `MySQL` `Regex Engine` `Mockito` |
+| ⚙️ **[FlowForge](https://github.com/pranathivanga/FlowForge)** | AI-powered workflow orchestration platform with DAG execution, scheduling, queues & monitoring | `Spring Boot` `RabbitMQ` `Quartz` `MySQL` `Redis` |
 
 ---
 
@@ -124,6 +125,7 @@
 ### 🏅 Certifications
 
 - 🟢 **ServiceNow Certified System Administrator (CSA)** — May 2026
+- 🟢 **ServiceNow Certified Application Developer (CAD)** — Jun 2026
 - ☁️ **AWS Academy Graduate — Cloud Foundations** — Aug 2025
 - 🏗️ **AWS Solutions Architecture Job Simulation** — Forage, Aug 2025
 - 💼 **Deloitte Technology Job Simulation** — Forage, Aug 2025
